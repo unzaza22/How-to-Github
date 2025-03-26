@@ -13,7 +13,9 @@
 
   [GitKraken](https://www.gitkraken.com/gitlens)
   
-  ## ถ้าสร้าง Repository ไว้แล้ว
+</details>
+
+## ถ้าสร้าง Repository ไว้แล้ว
   
   ให้ใช้ Clone a Repository
 
@@ -40,6 +42,3 @@
   project-template = ตามชื่อเลย หา template มาใช้
 
   gitlens = เอาไว้ดู history ของการ commit
-
-  
-</details>
