@@ -8,6 +8,10 @@
   [emoji ที่ใช้ในการ commit](https://gitmoji.dev/)
 
   [Profile github](https://zzetao.github.io/awesome-github-profile/)
+
+  [Gitlens](https://gitlens.amod.io/)
+
+  [GitKraken](https://www.gitkraken.com/gitlens)
   
   ## ถ้าสร้าง Repository ไว้แล้ว
   
