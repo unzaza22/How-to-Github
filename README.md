@@ -44,3 +44,5 @@
   project-template = ตามชื่อเลย หา template มาใช้
 
   gitlens = เอาไว้ดู history ของการ commit
+
+  **remove = การลบ repository ใน github desktop ถ้า path อยู่ที่เดียวกับ project จะทำให้ลบทั้ง path ระวังด้วย
